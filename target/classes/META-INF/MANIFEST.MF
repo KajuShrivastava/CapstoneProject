@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Kajal Shrivastava
+Build-Jdk: 17.0.10
+Implementation-Title: kajal_bank
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: ka20203422.development.bank
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/kajal_bank
+Created-By: Maven Integration for Eclipse
+
